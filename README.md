@@ -1,1 +1,3 @@
 # CardioVascular-Disease-Prediction-Model-Machine-Learning-Project
+
+Machine learning is used in many areas around the world. The healthcare industry is no exception. Machine learning could play a key role in predicting CardioVascular (heart) disease. Such information, if predicted in advance, can provide important intuitions for clinicians who can then tailor their diagnosis and dealing to each patient. In this project, we predict heart disease in a patient, and perform comparative analysis of classifiers using multiple machine learning techniques such as Decision Tree, Logistic Regression, SVM, K-Nearest Neighbors and Random Forest. Then recommend the best technologies that result in better accuracy and predictive analysis.
